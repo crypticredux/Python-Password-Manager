@@ -30,4 +30,5 @@ declined, etc.
 7. Proof of Concept *Video, images, written, etc. included*
 
 HackerOne. *Submitting Reports.* HackerOne Platform Documentation. Retrieved November 9, 2022, from https://docs.hackerone.com/hackers/submitting-reports.html
+
 NIST. *Common Vulnerability Scoring System Calculator.* National Vulnerability Database. Retrieved November 9, 2022, from https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator 
